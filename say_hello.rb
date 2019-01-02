@@ -1,3 +1,4 @@
 # Build your say_hello method here
 def greeting(name= Ruby programmer)
-  puts #{name}
+  puts Hello #{name}
+end
